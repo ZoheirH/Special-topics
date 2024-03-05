@@ -1,4 +1,4 @@
-# درس مباحث ویژه در برنامه‌نویسی
+## درس مباحث ویژه در برنامه‌نویسی
 
  [اولین پروژه](https://github.com/ZoheirH/Special-topics/blob/main/first_project.ipynb)
 
