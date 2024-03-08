@@ -7,6 +7,6 @@
  فایل [PDF حل مسئله با ۳ روش](https://github.com/ZoheirH/Special-topics/blob/main/Tamrin2.pdf) اضافه شد
 
 
- فایل‌های کد [تعاملی](https://github.com/ZoheirH/Special-topics/blob/main/screenshot-interactive.png) | [غیر‌تعاملی](https://github.com/ZoheirH/Special-topics/blob/main/hello.py) | [ماشین حساب](https://github.com/ZoheirH/Special-topics/blob/main/calculator.ipynb) اضافه شد
+ فایل‌های کد [تعاملی](https://github.com/ZoheirH/Special-topics/blob/main/screenshot-interactive.png) | [غیر‌تعاملی](https://github.com/ZoheirH/Special-topics/blob/main/hello.py) / [عکس](https://github.com/ZoheirH/Special-topics/commit/1a7bbac6246804644c0291dff3a86bde9587e2a4) | [ماشین حساب](https://github.com/ZoheirH/Special-topics/blob/main/calculator.ipynb) اضافه شد
 
 
